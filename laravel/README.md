@@ -11,9 +11,12 @@
 - composer install
 - composer dump-autoload
 - php artisan make:controller --resource Posts
+- php artisan migrate
 
 1. **settaggi vari**
 - creare cartella admin
 - spostare il controlle auth nella cartrella admin
 - aggiornare il percorso user del controlle spostato
 
+1. **modifiche blade**
+-
