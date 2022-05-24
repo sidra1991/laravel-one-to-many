@@ -18,5 +18,13 @@
 - spostare il controlle auth nella cartrella admin
 - aggiornare il percorso user del controlle spostato
 
+1. **creare database**
+- generare tabelle e model per i post:
+    1. pots
+    1. user
+    1. user_info
+
+
+
 1. **modifiche blade**
 -
